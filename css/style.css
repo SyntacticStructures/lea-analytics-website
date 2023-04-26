@@ -305,7 +305,6 @@ button.donate_btn {
     background-repeat: no-repeat;
     background-size: cover;
     position: relative;
-    top: -70px;
     margin-bottom: 0;
 }
 
@@ -478,6 +477,10 @@ button.send_bt:hover {
     color: #fff;
     font-weight: bold;
     padding-top: 20px;
+}
+
+img.logo {
+    padding: 5px 0px;
 }
 
 .lorem_text {
