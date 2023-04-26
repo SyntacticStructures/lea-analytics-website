@@ -445,10 +445,10 @@ button.send_bt:hover {
 }
 
 .box_main {
+    height: 100%;
     width: 100%;
     background-color: #120a78;
     clip-path: polygon(100% 0, 100% 75%, 50% 100%, 0 75%, 0 0);
-    height: auto;
     padding: 30px 20px 70px 20px;
 }
 
@@ -456,7 +456,7 @@ button.send_bt:hover {
     width: 100%;
     background-color: #f64646;
     clip-path: polygon(100% 0, 100% 75%, 50% 100%, 0 75%, 0 0);
-    height: auto;
+    height: 100%;
     padding: 30px 20px 70px 20px;
 }
 
